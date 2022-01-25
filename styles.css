@@ -4,5 +4,5 @@ button {
 
 .test-header {
     font-size:50px; 
-    color: pink;
+    color: pink !important;
 }
